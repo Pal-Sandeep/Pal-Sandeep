@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&show_icons=true&locale=en" alt="sandeeppal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&" alt="sandeeppal" /></p>
+[![Sandeep Pal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18576721)](https://stackoverflow.com/users/18576721/sandeep)
