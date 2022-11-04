@@ -28,8 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&show_icons=true&locale=en" alt="sandeeppal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&" alt="sandeeppal" /></p>
-[![Sandeep Pal StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042)](https://stackoverflow.com/users/6558042/omid-nikrah)
-<img height="137px"
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&" alt="sandeeppal" /><img height="137px"
   src="https://stackoverflow-card.vercel.app/?userID=18576721&theme=dracula"
-/>
+/></p>
