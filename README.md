@@ -28,9 +28,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&show_icons=true&locale=en" alt="sandeeppal" /></p>
 
-<p><img height="137px" width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&" alt="sandeeppal" />
+<p><img width=50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&" alt="sandeeppal" />
 <img height="137px" width=50%
   src="https://stackoverflow-card.vercel.app/?userID=18576721&theme=dracula"
 />
   </p>
-<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
