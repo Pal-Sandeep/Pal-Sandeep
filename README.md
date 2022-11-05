@@ -49,12 +49,15 @@
 ![snake gif](https://github.com/pal-sandeep/pal-sandeep/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
 <table align="center">
   <tr>
     <td>You are visitor</td>
     <td><img src="https://profile-counter.glitch.me/pal-sandeep/count.svg" alt=""/></td>
   </tr>
 </table>
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
