@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Pal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/8sandeepkumar" target="blank"><img src="https://img.shields.io/twitter/follow/8sandeepkumar?logo=twitter&style=for-the-badge" alt="sandeep_pal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/8sandeeppal" target="blank"><img src="https://img.shields.io/twitter/follow/8sandeeppal?logo=twitter&style=for-the-badge" alt="sandeep_pal" /></a> </p>
 
 - 🌱 I’m currently learning **Django**
 
