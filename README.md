@@ -1,7 +1,10 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
-<h1 align="center">Hi 👋, I'm Sandeep Pal</h1>
+<!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
+ <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Sandeep%20Pal%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Sandeep Pal!</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+<img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Pal" /> </p>
 
@@ -12,8 +15,10 @@
 - 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **skumar8work@gmail.com**
-<br>
-<br>
+
+- ⚡ Fun fact: I use tabs over spaces
+
+- ❓ Ask me about anything related to Python and related technologies
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!-- ################################################################################################ -->
@@ -87,13 +92,14 @@
 </div>
 <!-- ############################################################################################## -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-# 💻 Tech Stack:
+<!-- # 💻 Tech Stack:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!-- ################################################################ -->
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a>
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> -->
+<!--   ############################################################################################### -->
 <p>
 <a href="https://twitter.com/8sandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8sandeepkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sandeepcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Pal" height="30" width="40" /></a>
@@ -119,6 +125,14 @@
 <a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
 <a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="https://github.com/pal-sandeep/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=Django-URL-Shortener&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/pal-sandeep/learning-C-CPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=learning-C-CPP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">
