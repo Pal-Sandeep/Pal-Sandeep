@@ -125,14 +125,14 @@
 <a href="http://www.github.com/pal-sandeep"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=pal-sandeep&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="The-Young-Programmer's GitHub stats"/></a>
 <a href="http://www.github.com/pal-sandeep"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pal-sandeep&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
 <a href="http://www.github.com/pal-sandeep"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=pal-sandeep&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
-<a href="https://github.com/pal-sandeep/python-project-blueprint">
+<!-- <a href="https://github.com/pal-sandeep/python-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=Django-URL-Shortener&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
 <a href="https://github.com/pal-sandeep/learning-C-CPP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pal-sandeep&repo=learning-C-CPP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>   
+</a>    -->
 </div>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">
