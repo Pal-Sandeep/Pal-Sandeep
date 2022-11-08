@@ -144,7 +144,7 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  
+  <!-- ############################################################################################################################################################# -->
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Cambria&color=%231B0EF7&center=true&vCenter=true&lines=%3C%2F+With+%E2%9D%A4%EF%B8%8Ffrom+India+IN+%5C%3E)](https://git.io/typing-svg)
   <br>
@@ -167,3 +167,4 @@
 
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<p></p>
