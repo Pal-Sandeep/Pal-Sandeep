@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://www.nuvias.com/wp-content/uploads/2019/09/github-banner.jpg) --> 
  <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Sandeep%20Pal%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Sandeep Pal!</h1>
+<h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Sandeep Pal!</h1> 
 <h3 align="center">A passionate web developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
@@ -21,7 +21,7 @@
 - ❓ Ask me about anything related to Python and related technologies
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<!-- ########################################################################################################## -->
+<!-- ######################################################################################################### -->
 <div align="center">
   
 ## 🛠️ Stack I work with
@@ -167,4 +167,4 @@
 
 
 <img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
-<p></p>
+<p></p><p></p>
