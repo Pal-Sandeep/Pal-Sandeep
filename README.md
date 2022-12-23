@@ -5,8 +5,8 @@
 <h3 align="center">A passionate web developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 <img align="right"  style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" width="360px" height="270" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Pal" /> </p>
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pal-sandeep&label=Profile%20views&color=0e75b6&style=flat" alt="Sandeep Pal" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/8sandeeppal" target="blank"><img src="https://img.shields.io/twitter/follow/8sandeeppal?logo=twitter&style=for-the-badge" alt="sandeep_pal" /></a> </p>
 
@@ -19,6 +19,9 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 - ❓ Ask me about anything related to Python and related technologies
+
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1nFg_4gHbqGn5Hg13SGADjaoWC2TtI97B/edit?usp=sharing&ouid=118094392405577097133&rtpof=true&sd=true)
+
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!-- ######################################################################################################### -->
@@ -97,13 +100,16 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 <!-- ########################################################################################################## -->
+
 <div align="center">
+ <h3 align="center">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/SandeepPal"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SandeepPal" /></a></p><br><br>
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60"></a> 
 <!--   ######################################################################################################## -->
 <p>
-<a href="https://twitter.com/8sandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8sandeepkumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandeepcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Pal" height="30" width="40" /></a>
-<a href="https://instagram.com/iisandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iisandeepkumar" height="30" width="40" /></a>
+<a href="https://twitter.com/8sandeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sandeep Pal" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/8sandeeppal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandeep Pal" height="30" width="40" /></a>
+<a href="https://instagram.com/iisandeepkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sandeep Pal" height="30" width="40" /></a>
 </p>
   </div>
   <br>
