@@ -160,7 +160,9 @@
   <br>
   </div>
   <br>
-  
+<!--   ############################### -->
+<!-- [![An image of @palsandeep's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/palsandeep)](https://holopin.io/@palsandeep) -->
+<!--   ############################### -->
   
 <table align="center">
   <tr>
