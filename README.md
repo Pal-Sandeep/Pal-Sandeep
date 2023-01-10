@@ -12,11 +12,13 @@
 
 - 🌱 I’m currently learning **Django**
 
+- 🤩 I’m looking to collaborate on **AWS and DevOps Projects**
+
 - 💬 Ask me about **Python and Django**
 
 - 📫 How to reach me **skumar8work@gmail.com**
 
-- ⚡ Fun fact: I use tabs over spaces
+- ⚡ Fun fact: **Life long learner**
 
 - ❓ Ask me about anything related to Python and related technologies
 
