@@ -1,5 +1,5 @@
 name: gitartwork from a contribution graph
- on: 
+ on:
    push:
    schedule:
      - cron: '* */24 * * *'
@@ -14,5 +14,5 @@ name: gitartwork from a contribution graph
             # Use this username's contribution graph  
             user_name: pal-sandeep
             # Text on contribution graph 
-            text: SANDEEP PAL
-       - uses: pal-sandeep/simple-push-action@v1
+            text: Sandeep Pal
+       - uses: jasineri/simple-push-action@v1
