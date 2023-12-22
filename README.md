@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python and Django**
 
-- 📫 How to reach me **hello@heysandeep.com**
+- 📫 How to reach me **hello@sandeeppal.com**
 
 - ⚡ Fun fact: **Life long learner**
 
