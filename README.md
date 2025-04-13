@@ -22,7 +22,7 @@
 
 - ❓ Ask me about anything related to Python and related technologies
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1nt5z2Hlufgxt9ISJ33d5WG7DxXfN6rkW/view?usp=sharing)
+- 📄 Know about my experiences [Resume]()
 
 <br>
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
